@@ -1,0 +1,4 @@
+insert into books (title, author, published_year, publisher, genre, format) values ('Atonement', 'Ian McEwan', '2001', 'Jonathan Cape', 'Metafiction', 'Hardback');
+insert into books (title, author, published_year, publisher, genre, format) values ('Rotherweird', 'Andrew Caldecott', '2017', 'Jo Fletcher Books', 'Fantasy', 'Paperback');
+insert into books (title, author, published_year, publisher, genre, format) values ('The Colour of Magic', 'Terry Pratchett', '1983', 'Colin Smythe', 'Fantasy', 'eBook');
+insert into books (title, author, published_year, publisher, genre, format) values ('The Essex Serpent', 'Sarah Perry', '2016', 'Serpents Tail', 'Fiction', 'Hardback');
